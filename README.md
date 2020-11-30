@@ -28,9 +28,7 @@ Please, if you want to contribute with any improvement let me know.
 
 ### version 0.1
 
-* [Click Here](htps://josedaboinv.github.io/demos/modalb_001) <--
-
-
+[Click Here](https://josedaboinv.github.io/demos/modalb_001/) <--
 
 
 
