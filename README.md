@@ -24,11 +24,7 @@ _I put cdn links and script in the html, don't worry for that._
 
 Please, if you want to contribute with any improvement let me know.
 
-### Demo Link
-
 ### version 0.1
-
-[Click Here](https://josedaboinv.github.io/demos/modalb_001/) <--
 
 
 
