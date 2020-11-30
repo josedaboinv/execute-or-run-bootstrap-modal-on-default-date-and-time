@@ -35,7 +35,7 @@ Please, if you want to contribute with any improvement let me know.
 
 
 
-* Gif me a coffee ☕. 
-
 ---
+Gif me a coffee ☕. 
+
 ⌨️ con ❤️ por [josedaboinv](https://github.com/josedaboinv) 😊
