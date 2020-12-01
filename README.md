@@ -16,8 +16,8 @@ _This is a basic version._
 
 ### Pre-requirements 📋
 
-_Bootrapp_
-_I put cdn links and script in the html, don't worry for that._
+_Bootrapp._
+_I put cdn links and script in the html sample, don't worry for that._
 
 
 
